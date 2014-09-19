@@ -7,10 +7,9 @@ Gem::Specification.new do |spec|
   spec.name          = "mnemonic_word_list"
   spec.version       = MnemonicWordList::VERSION
   spec.authors       = ["Ivan Vanderbyl"]
-  spec.email         = ["ivanderbyl@digitalocean.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.email         = ["ivanvanderbyl@me.com"]
+  spec.summary       = %q{An exhaustive list of 1633 mnemonic words resurrected from Web Archive.}
+  spec.homepage      = "https://github.com/ivanvanderbyl/mnemonic_word_list"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
